@@ -10,9 +10,9 @@
  ### Known Issues:
  - High delay when Dualshock 4 with Bluetooth (Seems to be a problem with the controller itself).
  
- #### [XDA Thread]() (Soon)
+ #### [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-1controller-1-module-to-support-t3865889)
  
- #### [Download]() (Soon)
+ #### [Download](https://drive.google.com/uc?export=download&id=1qGfT2MLXJQGa096ublDvvwuq_JIlHTY4)
  
  
  ### Changelog:
