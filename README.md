@@ -12,7 +12,7 @@
  
  #### [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-1controller-1-module-to-support-t3865889)
  
- #### [Download](https://drive.google.com/uc?export=download&id=1qGfT2MLXJQGa096ublDvvwuq_JIlHTY4)
+ #### [Download](https://drive.google.com/file/d/1qGfT2MLXJQGa096ublDvvwuq_JIlHTY4/view?usp=sharing)
  
  
  ### Changelog:
