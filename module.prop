@@ -1,0 +1,7 @@
+id=1Controller
+name=1Controller - 1 Module to support all Controllers.
+version=v1.0
+versionCode=100
+author=Electric1447
+description=This module adds .kl file (keylayout) for Dualshock 4, Xbox One/S, Xbox 360.
+minMagisk=1500
