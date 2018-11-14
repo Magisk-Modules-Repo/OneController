@@ -1,6 +1,10 @@
 # 1Controller
 #### *1 Module to support all Game Controllers.*
 
+# About:
+This module aims to be an all-in-one module for controllers.
+It adds .kl files to fix keybindings on many game controllers.
+
 ### Compatibility:
  - Dualshock 4
  - Xbox 360
