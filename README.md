@@ -1,7 +1,7 @@
 # 1Controller
 #### *1 Module to support all Game Controllers.*
 
-# About:
+### About:
 This module aims to be an all-in-one module for controllers.
 It adds .kl files to fix keybindings on many game controllers.
 
