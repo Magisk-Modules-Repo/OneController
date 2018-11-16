@@ -6,6 +6,7 @@ This module aims to be an all-in-one module for controllers.
 It adds .kl files to fix keybindings on many game controllers.
 
 ### Compatibility:
+ - Dualshock 3
  - Dualshock 4
  - Xbox 360
  - Xbox One
@@ -24,3 +25,4 @@ It adds .kl files to fix keybindings on many game controllers.
  
  ### Changelog:
  - **1.0:** Initial GitHub Release.
+ - **1.1:** Added Dualshock 3 support.

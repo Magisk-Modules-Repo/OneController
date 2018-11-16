@@ -1,7 +1,7 @@
 id=OneController
 name=1Controller - 1 Module to support all Controllers.
-version=v1.0
-versionCode=100
+version=v1.1
+versionCode=110
 author=Electric1447
 description=This module adds .kl file (keylayout) for Dualshock 4, Xbox One/S, Xbox 360.
 minMagisk=17000
