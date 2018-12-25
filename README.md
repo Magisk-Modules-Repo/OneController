@@ -14,6 +14,7 @@ It adds .kl files to fix keybindings on many game controllers.
  
  ### Known Issues:
  - High delay when Dualshock 4 with Bluetooth (Seems to be a problem with the controller itself).
+ - Doesn't work on MIUI 10 devices.
  
  #### [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-1controller-1-module-to-support-t3865889)
  
