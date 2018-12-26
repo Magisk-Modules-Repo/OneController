@@ -1,10 +1,10 @@
-# Copyright (C) 2016 Jacob Maximilian Fober
+# Copyright (C) 2017 The Android Open Source Project
 #
-# Licensed under the Creative Commons License, Version 4.0 BY-SA (the "License");
+# Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#      https://creativecommons.org/licenses/by-sa/4.0/
+# http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -13,42 +13,59 @@
 # limitations under the License.
 
 #
-# Sony Playstation(R)4 Wireless Controller
+# Sony Playstation(R) DualShock 4 Controller
 #
 
-key 312 BUTTON_SELECT
-key 313 BUTTON_START
-key 305 BUTTON_A
-key 306 BUTTON_B
-key 304 BUTTON_X
-key 307 BUTTON_Y
-key 308 BUTTON_L1
-key 309 BUTTON_R1
-key 310 BUTTON_L2
-key 311 BUTTON_R2
-key 314 BUTTON_THUMBL
-key 315 BUTTON_THUMBR
 
-# PS key
-key 316 HOME
+# Mapping according to https://developer.android.com/traini...ler-input.html
+
+# Square
+key 0x130 BUTTON_X
+# Cross
+key 0x131 BUTTON_A
+# Circle
+key 0x132 BUTTON_B
+# Triangle
+key 0x133 BUTTON_Y
+
+key 0x134 BUTTON_L1
+key 0x135 BUTTON_R1
+key 0x136 BUTTON_L2
+key 0x137 BUTTON_R2
+
+# L2 axis
+axis 0x03 LTRIGGER
+# R2 axis
+axis 0x04 RTRIGGER
+
 
 # Left Analog Stick
 axis 0x00 X
 axis 0x01 Y
-
 # Right Analog Stick
 axis 0x02 Z
 axis 0x05 RZ
 
-# DPAD
+# Left stick click
+key 0x13a BUTTON_THUMBL
+# Right stick click
+key 0x13b BUTTON_THUMBR
+
+# Hat
 axis 0x10 HAT_X
 axis 0x11 HAT_Y
 
-# L2 trigger
-axis 0x03 LTRIGGER
+# Mapping according to https://www.kernel.org/doc/Documenta...ut/gamepad.txt
+# Share
+key 0x138 BUTTON_SELECT
+# Options
+key 0x139 BUTTON_START
 
-# R2 trigger
-axis 0x04 RTRIGGER
+# PS key
+key 0x13c BUTTON_MODE
 
-# Touchpad button
-key 317 DPAD_CENTER
+# Touchpad press
+# The touchpad for this joystick will become a separate input device in future releases
+# and this button will be equivalent to left mouse button
+# Therefore, map it to KEYCODE_BUTTON_1 here to allow apps to still handle this on earlier versions
+key 0x13d BUTTON_1
