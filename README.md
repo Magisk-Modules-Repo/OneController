@@ -20,8 +20,6 @@ It adds .kl files to fix keybindings on many game controllers.
  
  #### [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-1controller-1-module-to-support-t3865889)
  
- #### [Download](https://drive.google.com/file/d/1qGfT2MLXJQGa096ublDvvwuq_JIlHTY4/view?usp=sharing)
- 
  ### Credits:
  - [JaqFb](https://forum.xda-developers.com/member.php?u=7445450) for providing DS4 keylayouts.
  - [KeiranGinge](https://forum.xda-developers.com/member.php?u=9642932) for helping with DS4 mappings.
