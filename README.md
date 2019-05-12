@@ -29,3 +29,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.0:** Initial GitHub Release.
  - **1.1:** Added Dualshock 3 support.
  - **1.2:** Fixed some DS4 mappings.
+ - **1.2.1:** Updated to Magisk v19 template.
