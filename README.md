@@ -23,6 +23,7 @@ It adds .kl files to fix keybindings on many game controllers.
  ### Credits:
  - [JaqFb](https://forum.xda-developers.com/member.php?u=7445450) for providing DS4 keylayouts.
  - [KeiranGinge](https://forum.xda-developers.com/member.php?u=9642932) for helping with DS4 mappings.
+ - [djsmax](https://github.com/djsmax) for many many fixes and changes.
  
  
  ### Changelog:
