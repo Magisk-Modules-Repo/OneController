@@ -13,6 +13,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - Xbox 360
  - Xbox One
  - Xbox One S
+ - Switch Pro Controller ??? (not tested yet)
  
  ### Known Issues:
  - High delay when Dualshock 4 with Bluetooth (Seems to be a problem with the controller itself).
@@ -24,6 +25,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - [JaqFb](https://forum.xda-developers.com/member.php?u=7445450) for providing DS4 keylayouts.
  - [KeiranGinge](https://forum.xda-developers.com/member.php?u=9642932) for helping with DS4 mappings.
  - [djsmax](https://github.com/djsmax) for many many fixes and changes.
+ - [Black-Seraph](https://github.com/Black-Seraph) for Pro Controller Keylayout from CleanRom (GPD XD+).
  
  
  ### Changelog:
@@ -32,3 +34,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.2:** Fixed some DS4 mappings.
  - **1.2.1:** Updated to Magisk v19 template.
  - **1.3.0:** Merged [djsmax](https://github.com/djsmax) changes.
+ - **1.4:** Added Switch Pro Controller Support ???.
