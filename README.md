@@ -35,3 +35,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.2.1:** Updated to Magisk v19 template.
  - **1.3.0:** Merged [djsmax](https://github.com/djsmax) changes.
  - **1.4:** Added Switch Pro Controller Support ???.
+ - **1.4.1:** Added Xbox 360 Controller (vid_045e&pid_028e) support.
