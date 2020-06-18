@@ -14,6 +14,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - Xbox One
  - Xbox One S
  - Switch Pro Controller ??? (not tested yet)
+ - Nacon REVOLUTION PRO CONTROLLER
  
  ### Known Issues:
  - High delay when Dualshock 4 with Bluetooth (Seems to be a problem with the controller itself).
@@ -36,3 +37,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.3.0:** Merged [djsmax](https://github.com/djsmax) changes.
  - **1.4:** Added Switch Pro Controller Support ???.
  - **1.4.1:** Added Xbox 360 Controller (vid_045e&pid_028e) support.
+ - **1.4.2** Added Nacon REVOLUTION PRO CONTROLLER. ([Moe-Baker](https://github.com/Moe-Baker))
