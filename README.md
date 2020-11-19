@@ -38,3 +38,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.4:** Added Switch Pro Controller Support ???.
  - **1.4.1:** Added Xbox 360 Controller (vid_045e&pid_028e) support.
  - **1.4.2** Added Nacon REVOLUTION PRO CONTROLLER. ([Moe-Baker](https://github.com/Moe-Baker))
+ - **1.4.3:** Updated to Magisk v20 template.
