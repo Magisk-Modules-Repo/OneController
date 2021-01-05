@@ -8,19 +8,21 @@ This module aims to be an all-in-one module for controllers.
 It adds .kl files to fix keybindings on many game controllers.
 
 ### Compatibility:
- - Dualshock 3
- - Dualshock 4
+ - DualShock 3
+ - DualShock 4
+ - DualSense
  - Xbox 360
  - Xbox One
  - Xbox One S
  - Switch Pro Controller ??? (not tested yet)
  - Nacon REVOLUTION PRO CONTROLLER
+ - Zeemote SteelSeries FREE
  
  ### Known Issues:
  - High delay when Dualshock 4 with Bluetooth (Seems to be a problem with the controller itself).
  - Doesn't work on MIUI 10 devices.
  
- #### [XDA Thread](https://forum.xda-developers.com/apps/magisk/module-1controller-1-module-to-support-t3865889)
+ #### [XDA Thread](https://forum.xda-developers.com/t/module-1controller-1-module-to-support-all-game-controllers.3865889/)
  
  ### Credits:
  - [JaqFb](https://forum.xda-developers.com/member.php?u=7445450) for providing DS4 keylayouts.
@@ -39,3 +41,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.4.1:** Added Xbox 360 Controller (vid_045e&pid_028e) support.
  - **1.4.2** Added Nacon REVOLUTION PRO CONTROLLER. ([Moe-Baker](https://github.com/Moe-Baker))
  - **1.4.3:** Updated to Magisk v20 template.
+ - **1.5.0:** Added support for DualSense and Zeemote SteelSeries FREE controllers.
