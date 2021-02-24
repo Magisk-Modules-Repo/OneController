@@ -8,6 +8,7 @@ This module aims to be an all-in-one module for controllers.
 It adds .kl files to fix keybindings on many game controllers.
 
 ### Compatibility:
+ - DualShock 2
  - DualShock 3
  - DualShock 4
  - DualSense
@@ -29,6 +30,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - [KeiranGinge](https://forum.xda-developers.com/member.php?u=9642932) for helping with DS4 mappings.
  - [djsmax](https://github.com/djsmax) for many many fixes and changes.
  - [Black-Seraph](https://github.com/Black-Seraph) for Pro Controller Keylayout from CleanRom (GPD XD+).
+ - [MattMasc](https://github.com/MattMasc) for DualShock 2 Keylayout.
  
  
  ### Changelog:
@@ -42,3 +44,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.4.2** Added Nacon REVOLUTION PRO CONTROLLER. ([Moe-Baker](https://github.com/Moe-Baker))
  - **1.4.3:** Updated to Magisk v20 template.
  - **1.5.0:** Added support for DualSense and Zeemote SteelSeries FREE controllers.
+ - **1.5.1:** Added support for DualShock 2. ([MattMasc](https://github.com/MattMasc))
