@@ -15,6 +15,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - Xbox 360
  - Xbox One
  - Xbox One S
+ - Xbox Series X|S
  - Switch Pro Controller ??? (not tested yet)
  - Nacon REVOLUTION PRO CONTROLLER
  - Zeemote SteelSeries FREE
@@ -31,6 +32,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - [djsmax](https://github.com/djsmax) for many many fixes and changes.
  - [Black-Seraph](https://github.com/Black-Seraph) for Pro Controller Keylayout from CleanRom (GPD XD+).
  - [MattMasc](https://github.com/MattMasc) for DualShock 2 Keylayout.
+ - [RuiGuilherme](https://github.com/RuiGuilherme) for Xbox Series X|S.
  
  
  ### Changelog:
@@ -45,3 +47,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.4.3:** Updated to Magisk v20 template.
  - **1.5.0:** Added support for DualSense and Zeemote SteelSeries FREE controllers.
  - **1.5.1:** Added support for DualShock 2. ([MattMasc](https://github.com/MattMasc))
+ - **1.5.2:** Added support for Xbox Series X|S. ([RuiGuilherme](https://github.com/RuiGuilherme))
