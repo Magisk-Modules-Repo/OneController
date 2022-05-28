@@ -1,0 +1,24 @@
+# Device name: Nintendo Switch Right Joy-Con
+# Device id  : Vendor_057e_Product_2007
+
+# key <scancode> <action_button>
+# key 304 BUTTON_A
+key 304 BUTTON_B
+# key 305 BUTTON_B
+key 305 BUTTON_A
+# key 307 BUTTON_X
+key 307 BUTTON_X
+# key 308 BUTTON_Y
+key 308 BUTTON_Y
+key 311 BUTTON_R1
+key 313 BUTTON_R2
+key 318 BUTTON_THUMBR
+key 315 BUTTON_START
+key 316 HOME
+
+# axis <scancode> <axis_name>
+axis 0x03 Z
+axis 0x04 RZ
+
+# keyboard
+# key <scancode> <action_button>
