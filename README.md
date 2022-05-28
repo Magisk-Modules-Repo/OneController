@@ -17,6 +17,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - Xbox One S
  - Xbox Series X|S
  - Switch Pro Controller ??? (not tested yet)
+ - SWITCH JOY-CON
  - Nacon REVOLUTION PRO CONTROLLER
  - Zeemote SteelSeries FREE
  
