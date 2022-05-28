@@ -34,6 +34,7 @@ It adds .kl files to fix keybindings on many game controllers.
  - [Black-Seraph](https://github.com/Black-Seraph) for Pro Controller Keylayout from CleanRom (GPD XD+).
  - [MattMasc](https://github.com/MattMasc) for DualShock 2 Keylayout.
  - [RuiGuilherme](https://github.com/RuiGuilherme) for Xbox Series X|S.
+ - [s1w2a3](https://github.com/s1w2a3) for Joy-Con.
  
  
  ### Changelog:
