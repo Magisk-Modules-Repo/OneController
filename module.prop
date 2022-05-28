@@ -1,6 +1,6 @@
-id=OneController
+id=OneControllerPlus
 name=1Controller - 1 Module to support all Controllers.
-version=v1.5.2
-versionCode=152
-author=Electric1447
-description=This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.
+version=v1.0.0
+versionCode=100
+author=Electric1447 and s1w2a3
+description=This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360, Switch Pro Controller and Joy-Con.
