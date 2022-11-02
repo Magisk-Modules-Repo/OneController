@@ -20,24 +20,24 @@
 # Mapping according to https://developer.android.com/training/game-controllers/controller-input.html
 
 # Button labeled as "Y" but should really produce keycode "X"
-key 0x132    BUTTON_X
+key 308    BUTTON_X
 # Button labeled as "B" but should really produce keycode "A"
-key 0x130    BUTTON_A
+key 304    BUTTON_A
 # Button labeled as "A" but should really produce keycode "B"
-key 0x131    BUTTON_B
+key 305    BUTTON_B
 # Button labeled as "X" but should really product keycode "Y"
-key 0x133    BUTTON_Y
+key 307    BUTTON_Y
 
 # Button labeled as "L"
-key 0x134    BUTTON_L1
+key 310    BUTTON_L1
 # Button labeled as "R"
-key 0x135    BUTTON_R1
+key 311    BUTTON_R1
 
 # No LT / RT axes on this controller. Instead, there are keys.
 # Trigger labeled as "ZL"
-key 0x136    BUTTON_L2
+key 312    BUTTON_L2
 # Trigger labeled as "ZR"
-key 0x137    BUTTON_R2
+key 313    BUTTON_R2
 
 # Left Analog Stick
 axis 0x00    X
@@ -47,22 +47,24 @@ axis 0x03    Z
 axis 0x04    RZ
 
 # Left stick click (generates linux BTN_SELECT)
-key 0x13a    BUTTON_THUMBL
+key 317    BUTTON_THUMBL
 # Right stick click (generates linux BTN_START)
-key 0x13b    BUTTON_THUMBR
+key 318    BUTTON_THUMBR
 
-# Hat
-axis 0x10    HAT_X
-axis 0x11    HAT_Y
+# DPad
+key 544    DPAD_UP
+key 545    DPAD_DOWN
+key 546    DPAD_LEFT
+key 547    DPAD_RIGHT
 
 # Mapping according to https://www.kernel.org/doc/Documentation/input/gamepad.txt
 # Minus
-key 0x138    BUTTON_SELECT
+key 314    BUTTON_SELECT
 # Plus
-key 0x139    BUTTON_START
+key 315    BUTTON_START
 
 # Circle
-key 0x13d    BUTTON_MODE
+key 309    BUTTON_MODE
 
 # Home key
 key 0x13c    HOME
