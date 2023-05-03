@@ -4,6 +4,7 @@
 ![alt text](https://i.imgur.com/CODzG0F.png?4)
 
 ### About:
+**This fork adds proper support for Joy-Con**.<br>
 This module aims to be an all-in-one module for controllers.
 It adds .kl files to fix keybindings on many game controllers.
 
